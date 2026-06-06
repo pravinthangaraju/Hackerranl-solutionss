@@ -28,9 +28,13 @@ public class Solution {
 import java.util.*;
 
 public class Solution{
+
     public static void main(String args[]){
+    
         Scanner sc = new Scanner(System.in);
+        
         int a = sc.nextInt();// sizze of an array
+        
         int arr[] = new int[a];// declaration of an array
         
         //until now array is emty
